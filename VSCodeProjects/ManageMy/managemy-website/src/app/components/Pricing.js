@@ -29,7 +29,7 @@ const Pricing = () => {
                   </li>
                 ))}
               </ul>
-              <a href="mailto:info@socialboost.com" className="bg-purple-600 text-white py-2 px-4 rounded-full text-center hover:bg-purple-700 transition-colors duration-300">
+              <a href="mailto:info@nilecomun@gmail.com" className="bg-purple-600 text-white py-2 px-4 rounded-full text-center hover:bg-purple-700 transition-colors duration-300">
                 Choose Plan
               </a>
             </div>
