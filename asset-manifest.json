@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ScenePack/static/css/main.65cc8967.css",
+    "main.js": "/ScenePack/static/js/main.d5ca9661.js",
+    "static/js/453.da6eefd0.chunk.js": "/ScenePack/static/js/453.da6eefd0.chunk.js",
+    "index.html": "/ScenePack/index.html",
+    "main.65cc8967.css.map": "/ScenePack/static/css/main.65cc8967.css.map",
+    "main.d5ca9661.js.map": "/ScenePack/static/js/main.d5ca9661.js.map",
+    "453.da6eefd0.chunk.js.map": "/ScenePack/static/js/453.da6eefd0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65cc8967.css",
+    "static/js/main.d5ca9661.js"
+  ]
+}
